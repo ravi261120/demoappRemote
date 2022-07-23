@@ -1,2 +1,7 @@
 this demofile 
-inserting file to repo 
+inserting file to repo
+ 
+
+adding some more information to demofile.txt
+jaj
+kdslkkk 
